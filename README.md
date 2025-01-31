@@ -33,3 +33,7 @@ Features
 - 실시간 채팅 (Web Socket)
 - 음성낭독 (TTS API)
 - 머신러닝 AI 책 추천 기능
+
+담당기능
+- 게시판 CRUD 및 파일 업로드
+- Geolocation 및 Kakao Map API
